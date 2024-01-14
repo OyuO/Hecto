@@ -11,8 +11,9 @@ I'm follow the Hecto guide written by Philipp Flenker mentioned below in the sou
 ![查找字符串](imgs/search.png)
 ---
 
-### Note
-The current version of this project is only supported on Linux due to the terminal library.I will improve it to supported Windows in the future.
+### Notes
+1. Current application is only supported on Linux due to the terminal library.I will improve it to supported Windows in the future.
+2. Current application only supports English letters and does not support Chinese.
 
 ---
 
